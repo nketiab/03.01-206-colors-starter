@@ -65,14 +65,17 @@ footer {
 
   #column-1 {
     background-color: bisque;
+    width: 33%;
   }
 
   #column-2 {
     background-color: burlywood;
+    width: 33%;
   }
 
   #column-3 {
     background-color: coral;
+    width: 33%;
   }
 
   footer {
@@ -90,14 +93,17 @@ footer {
 
   #column-1 {
     background-color: aqua;
+    width: 33%;
   }
 
   #column-2 {
     background-color: aquamarine;
+    width: 33%;
   }
 
   #column-3 {
     background-color: cadetblue ;
+    width: 33%;
   }
 
   footer {
